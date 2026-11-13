@@ -2,8 +2,14 @@ AWS Machine Learning Engineer – Associate: Managed AI Services and SageMaker A
 Technical study notes and reference documentation covering AWS managed AI services, Amazon SageMaker AI, and selected SageMaker built-in algorithms.
 
 Series: AWS Machine Learning Engineer – Associate
+
 Prepared by: RJ Programming
+
 Scope: Three presentations: Managed AI Services — Part 1, Managed AI Services — Part 2, and Amazon SageMaker AI & Built-in Algorithms.
+
+Youtube Link: https://youtu.be/00ZTs00pR98?si=K1qwlO-f4mDb4xxl
+
+LinkedIn: https://lnkd.in/p/gshyN8xj
 
 Table of Contents
 1. Overview
